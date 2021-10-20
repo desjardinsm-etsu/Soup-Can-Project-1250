@@ -8,6 +8,7 @@ public class Main
         SoupCan can = new SoupCan(10, 2, "Campbells", 110, 24, 6, ing);
 
         can.Open();
+        
         if(can.isOpen())
         {
             System.out.println("The can is open!");
