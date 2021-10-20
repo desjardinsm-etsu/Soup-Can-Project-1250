@@ -6,6 +6,7 @@ public class SoupCan
     private boolean isOpen;
     private NutritionLabel label;
     private static final double PI = 3.14159;
+    //made my own changes
 
 
    public SoupCan(double height, double radius, String brand, int calories, int carbs, int sugar, String[] ingredients)
